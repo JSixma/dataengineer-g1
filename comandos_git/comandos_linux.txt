@@ -2,4 +2,4 @@ pwd: Muestra la ruta completa del directorio
 cd: Permite cambiar de directorio
 ls: Lista todos los archivos o folders del directorio
 mkdir: Crea un directorio nuevo
-rm: Remueve o elimina un directorio o archivo
+rm: Remueve o elimina un file o directorio
