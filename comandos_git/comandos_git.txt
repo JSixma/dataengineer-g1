@@ -1,5 +1,1 @@
-pwd: Muestra la ruta completa del directorio
-cd: Permite cambiar de directorio
-ls: Lista todos los archivos o folders del directorio
-mkdir: Crea un directorio nuevo
-rm: Remueve o elimina un directorio o archivo
+git init: Sirve para inicializar un folder y volverlo repositorio
